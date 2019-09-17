@@ -5,6 +5,11 @@
  * @author hani
  */
 public  class Car {
+  /**
+   * A class represents a car , and each car is defined by its model and plate
+   * number
+   * */
+
     private String regNumber;// the car registering number
     private String name;
 

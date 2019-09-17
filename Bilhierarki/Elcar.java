@@ -1,7 +1,8 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * A class represents an electrical car
+ * A car is defined by its model name and its plate number
+ * An electrical car has a battary Capasity in addition to
+ * what any car would be defind with.
  */
 
 /**
